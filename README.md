@@ -6,3 +6,4 @@ kkapptie@graniteschools.org
 ## First Semester Processing Calculator
 ##### Completed Nov. 2018
 Object oriented calculator with features including...
+![Calculator](https://github.com/kappter/2019ProgrammingPortfolio/blob/master/images/calc01.png?raw=true)
